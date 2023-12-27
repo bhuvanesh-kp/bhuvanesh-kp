@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhuvanesh-kp
+- 👋 Hi, I’m @bhuvanesh
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on GitHub
