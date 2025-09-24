@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhuvanesh
-- 👀 I’m interested in AI/ML and Full stack Development
-- 🌱 I’m currently learning NLP
+- 👀 I’m interested in System Design and Full stack Development
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 To reach me mail bhuvaneshkpb@gmail.com
 
