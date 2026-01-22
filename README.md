@@ -11,26 +11,26 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png">
 </p>
-<h1 align="center">Hi, I'm BHUVANESH K P<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm BHUVANESH K P</h1>
 <h3 font-size="20" align="center">A passionate backend developer and a student from India.</h3>
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>To be Extroverted</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
+<p> I’m currently learning <strong>To be Extroverted</strong> <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"></p>
 </li>
 <li>
-<p>👯 I’m looking to collaborate on <strong>Spring Framework</strong></p>
+<p> I’m looking to collaborate on <strong>Spring Framework</strong></p>
 </li>
 <li>
-<p>🤝 I’m looking for help with <strong>Backend Design & Scalable Architecture</strong></p>
+<p> I’m looking for help with <strong>Backend Design & Scalable Architecture</strong></p>
 </li>
 <li>
-<p>👨‍💻 All of my projects are available <a href="https://github.com/bhuvanesh-kp">@bhuvanesh-kp</a></p>
+<p> All of my projects are available <a href="https://github.com/bhuvanesh-kp">@bhuvanesh-kp</a></p>
 </li>
 <li>
-<p>💬 Ask me about <strong>System Designs and Software Development 😆</strong></p>
+<p> Ask me about <strong>System Designs and Software Development </strong></p>
 </li>
 <li>
-<p>⚡ Fun fact <strong>Coding is a passion and not profession.</strong></p>
+<p> Fun fact <strong>Coding is a passion and not profession.</strong></p>
 </li>
 </ul>
 <hr>
