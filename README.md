@@ -1,16 +1,6 @@
-<!--- - 👋 Hi, I’m @bhuvanesh
-- 👀 I’m interested in System Design and Full stack Development
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on GitHub
-- 📫 To reach me mail bhuvaneshkpb@gmail.com
-
-bhuvanesh-kp/bhuvanesh-kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <p align="center">
   <a href="https://github.com/bhuvanesh-kp">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+BHUVANESH;Software+Developer;Java+%7C+Spring+Boot+%7C+Golang;System+Design+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+BHUVANESH+K+P;Software+Developer;Specializing+in+Backend+%7C+Java+%7C+Go;System+Design+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -33,6 +23,12 @@ You can click the Preview link to take a look at your changes.
 </tr>
 </table>
 </div>
+
+<h2 align="center"><b>Certifications</b></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Solutions Architect">
+</p>
+
 <hr>
 <h2 align="center"><b>Tech Stack</b></h2>
 <p align="center">
@@ -192,20 +188,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-<hr>
-
-
-
-
-<div align="center">
-<h2 align="center">GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhuvanesh-kp&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-kp&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhuvanesh-kp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-</div>
