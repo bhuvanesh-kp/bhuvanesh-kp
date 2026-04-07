@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/bhuvanesh-kp">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+BHUVANESH;Software+Developer;Java+%7C+Spring+Boot+%7C+Golang;System+Design+Enthusiast;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CB4EE&center=true&vCenter=true&width=600&lines=Hi%2C+I’m+BHUVANESH;Software+Developer;Java+%7C+Spring+Boot+%7C+Golang;System+Design+Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h2 align="center"><b>Tech Stack</b></h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" alt="tech-skills">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider">
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -200,12 +200,12 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 <h2 align="center">GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanesh-kp&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhuvanesh-kp&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats">
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanesh-kp&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanesh-kp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhuvanesh-kp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 </div>
